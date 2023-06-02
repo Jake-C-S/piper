@@ -1,0 +1,5 @@
+project: piper
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
